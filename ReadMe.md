@@ -1,0 +1,1 @@
+This is a cloud-based data pipeline for Capital Edge Analytics. The entire pipeline process is automated from ingestion, staging, transforming, and loading of financial data. The solution retrieves data from API and allows for incremental loading. It ensures real-time, scalable and accurate data analytics.
