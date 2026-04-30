@@ -1,0 +1,11 @@
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+apache-beam (gcp)
+apache-airflow
+google-cloud-storage
+google-cloud-bigquery
+apache-airflow-providers-google
+apache-airflow-providers-apache-beam
